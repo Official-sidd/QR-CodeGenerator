@@ -1,3 +1,6 @@
+![Screenshot 2023-08-08 173850](https://github.com/Official-sidd/QR-CodeGenerator/assets/112920959/dab8b97d-5aca-43b5-b9bb-656cc61f7de3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
